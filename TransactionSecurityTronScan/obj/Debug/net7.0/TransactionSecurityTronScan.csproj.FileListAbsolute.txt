@@ -1,0 +1,14 @@
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\bin\Debug\net7.0\TransactionSecurityTronScan.exe
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\bin\Debug\net7.0\TransactionSecurityTronScan.deps.json
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\bin\Debug\net7.0\TransactionSecurityTronScan.runtimeconfig.json
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\bin\Debug\net7.0\TransactionSecurityTronScan.dll
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\bin\Debug\net7.0\TransactionSecurityTronScan.pdb
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.AssemblyInfoInputs.cache
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.AssemblyInfo.cs
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.csproj.CoreCompileInputs.cache
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.dll
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\refint\TransactionSecurityTronScan.dll
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.pdb
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\TransactionSecurityTronScan.genruntimeconfig.cache
+C:\Users\dbute\source\repos\TransactionSecurityTronScan\TransactionSecurityTronScan\obj\Debug\net7.0\ref\TransactionSecurityTronScan.dll
